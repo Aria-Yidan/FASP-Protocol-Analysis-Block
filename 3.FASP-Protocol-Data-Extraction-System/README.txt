@@ -1,14 +1,6 @@
-ÏîÄ¿Ãû³Æ£ºFASPÐ­ÒéÎÄ¼þÌáÈ¡
+é¡¹ç›®åç§°ï¼šFASPåè®®æ–‡ä»¶æå–
 
-Àà±ð£ºA
-
-Íê³ÉÇé¿ö£º
-	1£©²¶»ñOICQÐ­Òé±¨ÎÄ£¬Íê³É³£ÓÃ¶Ë¿ÚÍ³¼Æ£»
-	2£©OICQÐ­Òé»¹Ô­£¬ÌáÈ¡£º°æ±¾ºÅ¡¢ÃüÁî×Ö¡¢QQ_idµÈÐÅÏ¢£¬ÄÜ¹»Ê¶±ð²»Í¬ÃüÁî×Öº¬Òå£»
-	3£©OICQÐ­Òé±¨ÎÄÄÚÈÝÊ¶±ð£¬Íê³É¶ÔÎÄ±¾¡¢Í¼Æ¬¡¢ÎÄ¼þµÄÊ¶±ð£»ÌáÈ¡ÎÄ¼þÌØÕ÷Âë£¬ÀûÓÃWMËã·¨£¬½øÐÐ¶àÄ£Ê½Æ¥Åä£¬ÄÜ¹»×¼È·Ê¶±ðÎÄ¼þÀàÐÍ£»
-	4£©Windows SDK±à³ÌÍê³ÉÈí¼þ¿ò¼Ü£¨½çÃæ¡¢²Ù×÷µÈ£©£¬Á¬½ÓMySQLÊý¾Ý¿â´æ´¢²éÑ¯ÀúÊ·Êý¾Ý£¬Ö§³Ö²éÑ¯¡£	
-
-ÔËÐÐ±¸×¢£º
-	1£©½«WpdPackÑ¹Ëõ°ü½âÑ¹ºó£¬·ÅÖÃÂ·¾¶D:\program files (x86)\WpdPack\
-	2£©½«MySQL Server 5.7Ñ¹Ëõ°ü½âÑ¹ºó£¬·ÅÖÃÂ·¾¶C:\Program Files (x86)\MySQL\MySQL Server 5.7\
-	3£©»·¾³ÅäÖÃºÃÖ®ºó£¬¿ÉÒÔÖ±½ÓÔËÐÐRelease\Project.exe£¬Ò²¿ÉÒÔÓÃVisual Studio 2013´ò¿ª¹¤³Ì½øÐÐÔËÐÐ
+è¿è¡Œå¤‡æ³¨ï¼š
+	1ï¼‰å°†WpdPackåŽ‹ç¼©åŒ…è§£åŽ‹åŽï¼Œæ”¾ç½®è·¯å¾„C:\program files (x86)\WpdPack\
+	2ï¼‰å°†MySQL Server 5.7åŽ‹ç¼©åŒ…è§£åŽ‹åŽï¼Œæ”¾ç½®è·¯å¾„C:\Program Files (x86)\MySQL\MySQL Server 5.7\
+	3ï¼‰çŽ¯å¢ƒé…ç½®å¥½ä¹‹åŽï¼Œå¯ä»¥ç›´æŽ¥è¿è¡ŒRelease\Project.exeï¼Œä¹Ÿå¯ä»¥ç”¨Visual Studio 2013æ‰“å¼€å·¥ç¨‹è¿›è¡Œè¿è¡Œ
