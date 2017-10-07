@@ -6,4 +6,4 @@
 	3）环境配置好之后，可以直接运行Release\Project.exe，也可以用Visual Studio 2013打开工程进行运行
 
 
-![image](https://github.com/githubforliyidan/FASP-Protocol-Analysis-Block/edit/master/3.FASP-Protocol-Data-Extraction-System/demo.png)
+![image](https://github.com/githubforliyidan/FASP-Protocol-Analysis-Block/blob/master/3.FASP-Protocol-Data-Extraction-System/demo.png)
