@@ -1,0 +1,3 @@
+Get 1000 packet	TCP: 70 packet	UDP: 859 packet	ICMP: 1 packet
+FASP Transfer Begin Request: 3 packet
+FASP Data Block Numbers: 38 packet
