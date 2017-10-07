@@ -1,0 +1,1 @@
+char FASP_PATTERNS[4][MAXM] = { "SEMIA 3007", "GCA_000254515.2", "Chromosome", "Scaffold"};
